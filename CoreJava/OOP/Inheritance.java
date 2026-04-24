@@ -1,4 +1,4 @@
-package CoreJava.OOP;
+// package CoreJava.OOP;
 
 public class Inheritance {
     public static void main(String [] args){
