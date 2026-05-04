@@ -1,3 +1,5 @@
+package CoreJava.ExceptionHandling;
+
 public class CustomException {
 
    
